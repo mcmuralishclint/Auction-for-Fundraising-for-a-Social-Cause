@@ -1,7 +1,7 @@
 # Auction-for-Fundraising-for-a-Social-Cause
-Project: Design and Development of Smart Contract 
 
-As a part of the Blockchain specialization by University at Buffalo & The State University of New York, I was required to design, develop and test a smart contract for a problem using Solidity language and Remix IDE to apply what I had learnt in the course.
+**Project: Design and Development of Smart Contract**
+*As a part of the Blockchain specialization by University at Buffalo & The State University of New York, I was required to design, develop and test a smart contract for a problem using Solidity language and Remix IDE to apply what I had learnt in the course.*
 
 ## Problem Statement
 
